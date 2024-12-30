@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [abdalla mansour]!
+# 👋 Hi, I'm abdalla mansour!
 
 I'm a **Backend PHP Laravel Developer** passionate about building scalable, efficient, and robust applications. I specialize in Laravel, and I love working on APIs, authentication, and server-side logic. 🚀
 
@@ -40,9 +40,9 @@ I’m open to contributing to Laravel-based projects, especially those involving
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](#)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: [a.mansour.code@gmail.com](mailto:a.mansour.code@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/abdalla-mansour-518223300/](https://www.linkedin.com/in/abdalla-mansour-518223300/)
+<!-- - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)-->
 
 ---
 
