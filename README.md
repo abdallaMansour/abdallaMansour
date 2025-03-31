@@ -9,26 +9,32 @@ I'm a **Backend PHP Laravel Developer** passionate about building scalable, effi
 - **Frameworks**: Laravel, Livewire
 - **Databases**: MySQL, SQLite
 - **Tools**: Composer, NPM, Git, Postman
-- **Other Skills**: Firebase Cloud Messaging (FCM), Zoom API Integration, SMS API Integration, RESTful APIs
+- **Other Skills**: Firebase, Zoom API Integration, Pussher, RESTful APIs
 
 ---
 
-## 📚 What I'm Learning
-- Advanced Laravel features like Sanctum, Guards, and Middleware
-- Working with modern assets
-- Scalable cloud-based notification systems
+## 📂 Latest Projects
 
----
+### [Elebtisama](https://www.ebtsamasa.com)
 
-## 📂 Projects
-- **[SmartStudents](#)**: A platform enabling Zoom meeting scheduling, payment integration with MyFatoorah, and seamless student-teacher communication.
-- **[Fridge](#)**: A product tracking system for inventory management and financial operations.
-- **Laravel Notifications**: Built a Firebase Cloud Messaging system to send notifications to thousands of devices efficiently.
+**Project Overview:**  
+Ebtsama is a comprehensive platform for selling and managing medical cards, allowing users to access free medical services at partnered hospitals and clinics. The platform streamlines purchasing and management processes for customers, clinics, and administrators through an integrated digital system supporting MyFatoorah payments, inventory management, and card renewals.
 
----
+**User Roles:**  
+- **Admin:** Manages card types, creates new cards, distributes them to clinics, and sells them directly to customers.  
+- **Clinics:** Receive cards from the admin and sell them to customers.  
+- **Users:** Purchase medical cards via the platform and can renew them when needed.  
 
-## 🔭 Open to Collaborations
-I’m open to contributing to Laravel-based projects, especially those involving APIs, authentication, or real-time communication.
+**Key Features:**  
+- **Multiple Sales Channels:**  
+  - Customers can purchase cards online with digital payments.  
+  - Admins and clinics can sell cards directly.  
+- **Inventory Management:** Ability to create card types and track available quantities for both admins and clinics.  
+- **Reports & Analytics:**  
+  - Monthly, yearly, and weekly revenue tracking.  
+  - Performance analysis of partnered clinics and their total sales.  
+  - Detailed sales and renewal history, specifying the seller and transaction type.  
+- **Card Renewal System:** Users, admins, and clinics can renew medical cards easily.  
 
 ---
 
@@ -40,8 +46,9 @@ I’m open to contributing to Laravel-based projects, especially those involving
 ---
 
 ## 📫 How to Reach Me
+- **Phone**: [+201019113472](tel:+201019113472)
 - **Email**: [a.mansour.code@gmail.com](mailto:a.mansour.code@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/abdalla-mansour-518223300/](https://www.linkedin.com/in/abdalla-mansour-518223300/)
+- **LinkedIn**: [https://www.linkedin.com/in/abdolla-mansour](https://www.linkedin.com/in/abdolla-mansour)
 <!-- - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)-->
 
 ---
